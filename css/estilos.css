@@ -1,3 +1,7 @@
+body{
+	margin: 0;
+	padding: 0;
+}
 
 .wraper{
 	width: 75%;
@@ -29,6 +33,7 @@
 .logo{
 	float: left;
 }
+
 .conta{
 	float: right;
 }
@@ -57,20 +62,37 @@
 .escuro{
 	background-color: #666666;
 	width: 100%;
+	height: 140px;
+	float: left;
 }
 
 .claro{
 	background-color: #999999;
 	width: 100%;
+	height: 70px;
 	float: left;
 }
 
 .direitos{
 	float: left;
 	width: 50%;
+	height: 100%;
 }
 
 .crowdfunding{
-	float: left;
+	float: right;
 	width: 50%;
+	height: 100%;
+}
+
+.imgfooter{
+	width: 170px;
+	height: 40px;
+	margin-right: 0px;
+	float: right;
+}
+
+.footerwrap{
+	width: 75%;
+	margin: 0 auto;
 }
