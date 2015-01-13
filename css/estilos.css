@@ -1,6 +1,8 @@
 body{
 	margin: 0;
 	padding: 0;
+	font-family: sans-serif;
+	font-size: 12px;
 }
 
 .wraper{
@@ -49,8 +51,14 @@ body{
 }
 
 .bloco{
-	width: 33%;
+	width: 32%;
 	height: 450px;
+	float: left;
+}
+
+.bloco p{
+	text-align: justify;
+	padding: 25px;
 	float: left;
 }
 
