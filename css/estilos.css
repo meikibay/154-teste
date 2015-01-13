@@ -1,0 +1,39 @@
+
+.wraper{
+	width: 75%;
+	margin: 0 auto;
+}
+
+.header{
+	background-color: #CED1D2;
+}
+
+.navigation{
+	background-color: #CED1D2;
+	float: left;
+	margin-left: 13%;
+}
+
+.slider{
+	background-color: #CED1D2;
+}
+
+.logo{
+	float: left;
+}
+.conta{
+	float: right;
+}
+
+.banner{
+	margin: 1%;
+}
+
+.blocos{
+	margin: 2%;
+}
+
+.bloco{
+	width: 30%;
+	float: left;
+}
